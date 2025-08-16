@@ -7,7 +7,7 @@ Selamat datang di repositori Aplikasi Resep Makanan! Ini adalah aplikasi mobile 
 
 | Halaman Utama | Halaman Detail |
 | :-----------: | :--------------: |
-| ![Homepage](https://via.placeholder.com/300x600.png?text=Halaman+Utama) | ![Detailpage](https://via.placeholder.com/300x600.png?text=Halaman+Detail) |
+| ![Homepage](https://raw.githubusercontent.com/qalesyaSN/App-Recipes-Expo-Go-React-Native/refs/heads/main/homepage.png) | ![Detailpage](https://raw.githubusercontent.com/qalesyaSN/App-Recipes-Expo-Go-React-Native/refs/heads/main/detail-recipe.png) |
 
 ## ✨ Fitur Utama
 
