@@ -4,7 +4,6 @@ Selamat datang di repositori Aplikasi Resep Makanan! Ini adalah aplikasi mobile 
 
 ## 📸 Screenshot Aplikasi
 
-*(Sangat disarankan untuk menambahkan screenshot aplikasi Anda di sini untuk memberikan gambaran visual. Anda bisa drag-and-drop gambar ke file README.md di GitHub untuk mengunggahnya)*
 
 | Halaman Utama | Halaman Detail |
 | :-----------: | :--------------: |
